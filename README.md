@@ -2,8 +2,8 @@
 Пример чат-бота, написанного в качестве примера использования Microsoft Bot Framework для .NET Meetup #24
 
 ## Презентация
+[Ссылка на презентацию](https://github.com/flash2048/SampleBot/raw/master/Microsoft_Bot_Framework.pptx)
 
-[Ссылка на презентацию](https://github.com/flash2048/SampleBot/blob/master/Microsoft_Bot_Framework.pptx)
 ---
 * [Бот в Telegram](https://telegram.me/bfsamplebot)
 * [Бот в Skype](https://join.skype.com/bot/a58ba607-11eb-4112-a4bc-84f7e4b542fd)
